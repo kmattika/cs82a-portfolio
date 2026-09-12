@@ -1,2 +1,3 @@
 # cs82a-portfolio
-class repository for SMC CS82A, Introduction to Data Science
+Class repository for SMC CS82A, Introduction to Data Science
+Kaarina Mattika, Section 1758
