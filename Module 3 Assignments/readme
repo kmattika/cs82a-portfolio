@@ -1,1 +1,8 @@
 Folder containing module 3 assignments
+
+Please note that the pdf files uploaded were the result of a .tex to .pdf conversion done using miktex through powershell. I received continuous unknown errors when attempting to natively convert to PDF through Jupyter,
+
+"nbconvert failed: PDF creating failed, captured latex output:
+Failed to run "xelatex notebook.tex -quiet" command:"
+
+After troubleshooting both Jupyter and miktex, I opted to convert the files manually instead of investigating further. If there are discrepencies between the Jupyter files and the PDF files, I would suggest this as a source.
