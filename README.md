@@ -29,6 +29,3 @@ This project examines differences between voter-registration estimates and accep
 | [Final Project Notebook](./Final%20Project/CS82A%20Final%20Project%20KM.ipynb) | Research question, methodology, analysis, visualizations, conclusions, and works cited. |
 | [registrants_ld.csv](./Final%20Project/registrants_ld.csv) | Registration data used in the final-project analysis. |
 | [voters_ld.csv](./Final%20Project/voters_ld.csv) | Voter-participation data used in the final-project analysis. |
-| [Module 2 Lab 3 — PDF](./module2_lab3.pdf) | PDF copy of the temperature-classification assignment. |
-| [Module 5 Lab 1 — PDF](./Module%205%20Assignments/module5_lab1.pdf) | PDF copy of the data-visualization and hypothesis-testing assignment. |
-```
